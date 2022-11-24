@@ -19,7 +19,6 @@
 
 <div align="center">
 <h3> Built With: <br> <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth="40" width="52" al="React logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" heigth="40" width="52" al="next.js logo" />
   <img src="https://user-images.githubusercontent.com/43313420/105883661-64604380-6007-11eb-8cfa-45ff66b37fdb.png" heigth="40" width="52" al="axios logo" />
