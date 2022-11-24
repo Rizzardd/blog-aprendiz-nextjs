@@ -5,7 +5,7 @@
 ## Installation :wrench:
 
 1. Clone this repo by running `https://github.com/Rizzardd/blog-aprendiz-nextjs`
-2. `cd next-js-app`
+2. `cd blog-aprendiz-nextjs`
 3. `npm install`
 4. `npm run dev`
 
