@@ -1,5 +1,7 @@
 # Next JS Application
 
+
+
 ## Installation :wrench:
 
 1. Clone this repo by running `https://github.com/Rizzardd/blog-aprendiz-nextjs`
@@ -17,3 +19,4 @@
 
 1. React
 2. Next JS
+3. Axios
