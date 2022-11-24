@@ -15,10 +15,10 @@
 2. `build` Runs build
 3. `start` Runs next js server
 
-## Built With :zap:
+---
 
 <div align="center">
-<h3> Main Technologies: <br> <br>
+<h3> Built With: <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
